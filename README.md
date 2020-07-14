@@ -24,4 +24,4 @@ To add additional CRUD functions.
 
 1.  Create new file in `db/query/{TABLE_NAME}` with TABLE_NAME as your table name
 2.  Write necessary SQL statements in above generated file.
-3.  run `make sqlc`
+3.  Run `make sqlc`
